@@ -1,0 +1,21 @@
+{
+  "name": "dark-oxygen",
+  "displayName": "Dark Oxygen",
+  "description": "Breath Oxygen In Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Oxygen",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-Oxygen.json"
+      }
+    ]
+  }
+}
