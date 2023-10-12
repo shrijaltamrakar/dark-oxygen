@@ -26,3 +26,17 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/docs about publishing an extension.
+
+
+## Help
+Developed Using 
+```npm install -g yo generator-code```
+
+ ```yo code```
+
+### How to publish
+**Note**
+* Press `F1` -> > Extentions: Install from VXIS
+1. ```vsce package``` > This will give VXIS
+   
+2. ```vsce publish``` need keys to publish

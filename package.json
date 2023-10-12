@@ -6,9 +6,11 @@
   "engines": {
     "vscode": "^1.83.0"
   },
+  "publisher": "ShrijalTamrakar",
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
